@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Metasploit Reverse Shell on Windows 11 Tutorial </b>
-  - [Praciting Metasploit Reverse Shell](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Praciting Metasploit Reverse Shell](https://github.com/cybersecwaj/metasploit-reverse-shell-tutorial.git)
 
 - <b>Python</b>
 <!--
